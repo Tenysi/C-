@@ -1,0 +1,3 @@
+﻿  Quiz game.cpp
+C:\Users\Tiago\source\repos\Quiz game\Quiz game.cpp(100,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Quiz game.vcxproj -> C:\Users\Tiago\source\repos\Quiz game\x64\Debug\Quiz game.exe

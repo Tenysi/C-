@@ -1,0 +1,3 @@
+C:/Users/Tiago/CLionProjects/NumberHigherOrLower/cmake-build-debug/CMakeFiles/NumberHigherOrLower.dir
+C:/Users/Tiago/CLionProjects/NumberHigherOrLower/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Tiago/CLionProjects/NumberHigherOrLower/cmake-build-debug/CMakeFiles/rebuild_cache.dir
